@@ -7,5 +7,5 @@ so much stuff to do
 
 - money
 - mascot
-- not ludopatic games
+- not gambler games
 - admin commands
