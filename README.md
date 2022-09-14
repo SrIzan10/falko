@@ -1,5 +1,5 @@
 # falkobot
-A economy discord bot made for Mara Turing
+An economy discord bot made for Mara Turing
 
 # roadmap
 
