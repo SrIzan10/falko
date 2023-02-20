@@ -7,5 +7,5 @@ so much stuff to do
 
 - money
 - mascot
-- not gambler games
+- non addictive games (ig)
 - admin commands
